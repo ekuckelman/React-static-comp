@@ -1,31 +1,15 @@
-# React Starter Kit
+# React Static Comp
 
-To install the dependencies:
+### Specification
+The React static comp is designed to get comfortable with basic React principles and to keep up CSS skills.
 
-```
-npm install
-```
+### Cloning Medium
+![static comp design](https://i.imgur.com/8eQr70q.png)
+You can gather ideas for the responsive design based on [Medium's website](https://web.archive.org/web/20170911122145/https://medium.com/).
 
-To fire up a development server:
-
-```
-npm start
-```
-
-Once the server is running, you can visit:
-
-* `http://localhost:8080/webpack-dev-server/` to run your application.
-* `http://localhost:8080/webpack-dev-server/test.html` to run your test suite in the browser.
-
-To build the static files:
-
-```js
-npm run build
-```
-
-
-To run tests in Node:
-
-```js
-npm test
-```
+### Static Comp Learning Goals
+- Begin to understand rendering in React
+- Begin to understand creating components in React
+- Begin to understand writing in JSX
+- Begin to understand passing data through props
+- Have a sandbox in which to practice working with React
