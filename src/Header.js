@@ -4,7 +4,9 @@ import './Header.css';
 const Header = () => {
   return (
     <div className='Header'>
-      {/* What goes in here? */}
+      <a className='header-write'> Write a Story </a>
+      <h1>Medium</h1>
+      <a className='header-signin'> Signin/Sign-up</a>
     </div>
   )
 }

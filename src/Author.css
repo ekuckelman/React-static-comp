@@ -15,8 +15,8 @@
   border-radius: 50px;
 }
 
-.author-text h4 {
+.author-text{
   font-size: 14px;
-  font-weight: normal;
+  font-weight: lighter;
   margin: 0 0 0 10px;
 }
