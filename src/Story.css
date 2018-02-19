@@ -20,11 +20,13 @@
 }
 
 .story-info h3 {
+  font-size: 16px;
   letter-spacing: 1px;
   margin: 5px;
 }
 
 .story-info p {
+  font-size: 14px;
   font-weight: lighter;
   line-height: 150%;
   margin: 0;
